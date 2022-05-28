@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    margin: 1% 0%;
+}
+
+.flex{
+    display: flex;
+}
+
+.card{
+    margin: 1% 3%;
+}
